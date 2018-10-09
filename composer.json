@@ -1,0 +1,7 @@
+{
+    "name": "vibes/videos",
+    "require": {
+        "google/apiclient": "~2.0"
+    },
+    "minimum-stability": "dev"
+}

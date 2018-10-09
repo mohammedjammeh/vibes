@@ -1,0 +1,3 @@
+#Vibes
+
+This site makes uses of APIs by brining different applications together. Vibes has its own local login and registration system; but it also uses Google to authenticate users. The main music platform for the application is Spotify. Spotify provides details about songs, artists and albums. This is then used to search for related information on social media platforms such as Twitter. Despite not fully completed, this university project has taught me how to make use of data provided by external resources and this is known as the use of APIS.
